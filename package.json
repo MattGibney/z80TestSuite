@@ -1,0 +1,23 @@
+{
+  "name": "z80testsuite",
+  "version": "1.0.0",
+  "description": "Testing Framework For Z80 Assembly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moppler/z80TestSuite.git"
+  },
+  "dependencies": {
+    "z80js": "git+ssh://git@github.com:Moppler/Z80.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moppler/z80TestSuite/issues"
+  },
+  "homepage": "https://github.com/Moppler/z80TestSuite#readme"
+}
